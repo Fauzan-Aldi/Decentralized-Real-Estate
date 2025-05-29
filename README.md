@@ -1,4 +1,4 @@
-### Judul Proyek: **Sistem Transaksi Properti Desentralisasi 
+### Judul Proyek: Sistem Transaksi Properti Desentralisasi 
 
 Proyek ini melibatkan pembangunan sistem transaksi properti desentralisasi menggunakan blockchain Ethereum. Sistem ini memungkinkan pemilik properti untuk memasang iklan penjualan rumah dengan harga tetap (10 Ether). Sistem ini melibatkan tiga pihak utama:
 - **Pemilik Properti**: Individu yang memiliki rumah dan memasang iklan penjualan.
