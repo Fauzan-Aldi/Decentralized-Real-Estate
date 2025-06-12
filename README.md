@@ -91,4 +91,4 @@ Kontrak ini dikembangkan menggunakan Solidity dan berjalan di blockchain Ethereu
 
 ### Deployment dan Pengujian:
 
-Kontrak pintar ini dapat di-deploy dan diuji menggunakan **Remix IDE**, alat yang kuat untuk pengembangan kontrak pintar Ethereum.
+Kontrak pintar ini dapat di-deploy dan juga diuji menggunakan **Remix IDE**, alat yang kuat untuk pengembangan kontrak pintar Ethereum.
